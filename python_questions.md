@@ -4,7 +4,7 @@
 
 1. Что выведет python3 при выпонении данного кода
 
-
+```python
     l = [1,2,3,4,4,4,]
     a = [x for x in l]
     b = (x for x in l)
@@ -13,4 +13,4 @@
     print(a)
     print(b)
     print(c)
-
+```
