@@ -1,0 +1,7 @@
+# Distribution / packaging
+settings_local.py
+rpm/
+library/
+.idea/
+*.iml
+
