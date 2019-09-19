@@ -26,16 +26,13 @@ print(b)
 print(c)
 ```
 4. Что выведет следующий код:
-
 ```python
 def f(*args, **kwargs):
     print(args, kwargs)
 
 f(*[1, 2, 3])
 ```
-
 5. Что выведет следущий код:
-
 ```python
 a = dict(one=1, two=2, three=3)
 keys = a.keys()
@@ -43,7 +40,6 @@ a['four']=4
 print(keys)
 ```
 3. Что произойдет в результате выполнения следующего кода:
-
 ```python
 t = (1, 2, [30, 40])
 t[2] += [50, 60]
