@@ -11,9 +11,6 @@
     c = {x for x in d}
 
     print(a)
-    print(type(a))
     print(b)
-    print(type(b))
     print(c)
-    print(type(c)
 
