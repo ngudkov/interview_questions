@@ -4,7 +4,7 @@
 
 1. Что бы вы изменили в этом коде? Есть ли в коде ошибки, если да то какие?
 ```python
-# function than do some stuff
+# функция которая что-то делает
 def isNone(Arg):
     if Arg:
         return False
