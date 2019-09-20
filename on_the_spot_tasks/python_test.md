@@ -14,13 +14,15 @@ def isNone(Arg):
 ```python
 print(1==True==2)
 ```
-1. Что выведет python3 при выпонении данного кода
+
+1. Что выведет следующий код?
 ```python
 l = [1, 2, 3, 4, 4, 4,]
 print([x for x in l])
 print((x for x in l))
 print({x for x in l})
 ```
+
 1. Что выведет следующий код:
 ```python
 def f(*args, **kwargs):
@@ -28,6 +30,7 @@ def f(*args, **kwargs):
 
 f(*[1, 2, 3])
 ```
+
 1. Что выведет следущий код:
 ```python
 a = dict(one=1, two=2, three=3)
@@ -35,6 +38,7 @@ keys = a.keys()
 a['four']=4
 print(keys)
 ```
+
 1. Что произойдет в результате выполнения следующего кода:
 ```python
 t = (1, 2, [30, 40])
