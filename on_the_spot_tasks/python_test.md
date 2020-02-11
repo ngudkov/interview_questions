@@ -32,6 +32,13 @@ def f(*args, **kwargs):
 f(*[1, 2, 3])
 ```
 
+* Что выведет следующий код:
+```python
+>>> a = {1:'first', True: 'second'}
+>>> a[1]
+???
+```
+
 * Что выведет следущий код:
 ```python
 a = dict(one=1, two=2, three=3)
