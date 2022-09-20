@@ -12,6 +12,6 @@
 если число делится без остатка на 5, то генератор должен сгенерировать - "Buzz"
 если число делится без остатка на 3 и на 5, то генератор должен сгенерировать - "FizzBuzz"
 >>> import itertools
->>> print(list(itertools.islice(fib_gen(), 20)))
+>>> print(list(itertools.islice(series_gen(), 20)))
 [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz', 11, 'Fizz', 13, 14, 'FizzBuzz', 16, 17, 'Fizz', 19, 'Buzz']
 ```
